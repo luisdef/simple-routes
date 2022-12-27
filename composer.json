@@ -1,0 +1,17 @@
+{
+    "name": "luisdef/simple-routes",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app"
+        }
+    },
+    "authors": [
+        {
+            "name": "Luis Felipe Assmann",
+            "email": "luis.assmann.1234@gmail.com"
+        }
+    ],
+    "require": {
+        "league/plates": "^3.4"
+    }
+}
